@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sample/1.png</file>
+        <file>sample/2.png</file>
+        <file>sample/3.png</file>
+        <file>sample/4.png</file>
+        <file>sample/5.png</file>
+        <file>sample/6.png</file>
+        <file>sample/111.png</file>
+        <file>sample/240+64.bin</file>
+        <file>sample/240+64.png</file>
+        <file>sample/294303968109039989.png</file>
+        <file>sample/588023982397332240.png</file>
+        <file>sample/CUP.bin</file>
+        <file>sample/CUP.png</file>
+        <file>sample/CUP1.png</file>
+        <file>sample/CUPS.bin</file>
+        <file>sample/CUPS.png</file>
+        <file>sample/CUPXS.png</file>
+        <file>sample/CUUP.bin</file>
+        <file>sample/JD.bin</file>
+        <file>sample/JDZF.bin</file>
+        <file>sample/ums.bin</file>
+        <file>sample/ums.png</file>
+        <file>sample/usr_0.png</file>
+        <file>sample/usr_1.png</file>
+        <file>sample/ranbe.png</file>
+    </qresource>
+</RCC>
